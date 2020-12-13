@@ -1,6 +1,7 @@
 # cs50-Projects
-## Use this repository only as a reference to the cs50 projects
+## This the project-0 of CS50 Web development using python and javascript 
+### Google Search Pages
+# Google homepage
+# Google images
+# Google Advance search
 
-**Feel free to connect on linkedin**
-# [LINKEDIN](https://www.linkedin.com/in/sanjay-kapilesh-32728018a/)
- ### **Click to connect**
